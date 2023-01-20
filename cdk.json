@@ -1,5 +1,6 @@
 {
   "app": "go mod download && go run breezeware-aws-cdk-patterns-samples.go",
+  "versionReporting": false,
   "watch": {
     "include": [
       "**"
